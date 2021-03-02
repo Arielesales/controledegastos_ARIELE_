@@ -18,7 +18,7 @@ class Categoria extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
-	/***/
+	/** fazer commit*/
 	public function index()
 	{
 		$this->load->view('listar_categorias');

@@ -7,7 +7,7 @@
     <title>listagem de gastos</title>
 </head>
 <body>
-<!– –>
+<!–Fazer commit –>
     <h2>Gastos de um estudante em Fevereiro</h2>
     <table>
 <tr>

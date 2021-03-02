@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<!– –>
+<!–Fazer commit –>
     <h2>Adicionar nova categoria</h2>
     <form action="">
     <label for="Nome">Nome: <input type="text"></label><br>
