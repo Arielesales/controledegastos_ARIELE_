@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<!-Fazer commit ->
+<!- ->
     <h2>Lista de categorias</h2>
 <ul>
 <li>Transporte</li>
