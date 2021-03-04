@@ -27,8 +27,5 @@ class Categoria extends CI_Controller {
 	{
 		$this->load->view('nova_categoria');
 	}
-	public function edite()
-	{
-		$this->load->view('editarcat');
-	}
+
 }

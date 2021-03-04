@@ -17,6 +17,5 @@
 <li>Outros gastos</li>
 </ul>
 </form>
-<button> <a href="http://localhost/controlegastos_LEANDRO/categoria/edite"> Editar</a></button>
 </body>
 </html>

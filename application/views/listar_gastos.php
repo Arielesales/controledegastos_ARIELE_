@@ -14,18 +14,18 @@
     <td>Data</td> <td>Descrição</td> <td>Valor</td>
 </tr>
 <tr>
-    <td>01/02/2021</td> <td>Pipoca</td> <td>R$ 2,50</td>
+    <td>03/02/2021</td> <td>Salgado</td> <td>R$ 2,50</td>
 </tr>
 <tr>
-    <td>04/02/2021</td> <td>caneta</td> <td>R$ 1,50</td>
+    <td>03/02/2021</td> <td>Refrigerante</td> <td>R$ 1,50</td>
 </tr>
 <tr>
-    <td>07/02/2021</td> <td>Refrigerante</td> <td>R$ 1,50</td>
+    <td>07/02/2021</td> <td>Passagem</td> <td>R$ 4,00</td>
 </tr>
 <tr>
-    <td>07/02/2021</td> <td>Biscoito</td> <td>R$ 2,00</td>
+    <td>07/02/2021</td> <td>pipoca</td> <td>R$ 2,00</td>
 </tr>
     </table>
-    <a href="http://localhost/controlegastos_LEANDRO/index.php/Gastos/novo">Adicione um novo</a>
+    <a href="http://localhost/controledegastos_ARIELE_/index.php/Gastos/novo">Adicione um novo</a>
 </body>
 </html>
