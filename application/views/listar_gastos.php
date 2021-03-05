@@ -26,6 +26,6 @@
     <td>07/02/2021</td> <td>pipoca</td> <td>R$ 2,00</td>
 </tr>
     </table>
-    <a href="http://localhost/controledegastos_ARIELE_/index.php/Gastos/novo">Adicione um novo</a>
+    <a href="http://localhost/Arielesales/controlegastos_ARIELE/gastos/novo">Adicione um novo</a>
 </body>
 </html>
