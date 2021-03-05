@@ -19,7 +19,7 @@ class Gastos extends CI_Controller {
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
 
-
+	 /** fazer commit*/
 	public function index()
 	{
 	
